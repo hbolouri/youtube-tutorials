@@ -1,4 +1,4 @@
 # Netflix-Starter
 
-![my solution](landing_top.png)
-![my solution](landing_bottom.png)
+![titac_top](landing_top.png)
+![titac_bottom](landing_bottom.png)
