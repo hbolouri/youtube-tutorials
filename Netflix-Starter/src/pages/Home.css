@@ -52,6 +52,7 @@
   font-weight: 500;
   font-size: calc(100vw * 0.014);
   line-height: calc(100vw * 0.02);
+  color: white;
 }
 
 .playButton {
